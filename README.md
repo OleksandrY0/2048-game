@@ -41,3 +41,29 @@ The core logic is implemented in the `Game` class:
 - Lose detection (no available moves)
 - Restart and start functionality
 - Clean and modular game logic
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/2048-game.git
+```
+
+### 2. Install dependencies:
+
+```bash
+npm install
+```
+
+### 3. Start the development server:
+
+```bash
+npm run start
+```
+
+### 4. Open the project in your browser:
+
+http://localhost:1234
